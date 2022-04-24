@@ -4,8 +4,8 @@ from pystyle import Colorate, Colors, Write
 from random import randint, choice
 from urllib3.exceptions import InsecureRequestWarning
 from http import cookiejar
-from Data.UserAgent import UserAgent
-from Data.Lists import DeviceTypes, Platforms, Channel, ApiDomain
+from Data.Data.UserAgent import UserAgent
+from Data.Data.Lists import DeviceTypes, Platforms, Channel, ApiDomain
 
 
 
